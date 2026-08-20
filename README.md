@@ -100,3 +100,14 @@ Connectivity was tested using ping and Cisco IOS verification commands.
 - Verified connectivity between the switch and connected devices.
 
 **Resolution:** Corrected the network configuration and verified successful IP address assignment and connectivity.
+
+
+## Future Labs
+- Inter-VLAN Routing
+- Static Routing
+- OSPF
+- Access Control Lists (ACLs)
+- Port Security
+- Network Security
+- VPN Configuration
+- Advanced Network Troubleshooting
