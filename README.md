@@ -61,7 +61,7 @@ Verified network connectivity using Cisco IOS CLI commands and ping tests. Check
   - Fa0/1 → VLAN 10
   - Fa0/2 → VLAN 20
   - Fa0/3 → VLAN 10
-- Used "show vlan brief" to verify VLAN assignments.
+- Used show `vlan brief` to verify VLAN assignments.
 
 ### Lab 3: Trunk Configuration
 - Configured trunk links between network devices.
