@@ -47,14 +47,14 @@ Verified network connectivity using Cisco IOS CLI commands and ping tests. Check
 
 
 ## Lab Tasks
-### Lab 1 — Basic Network Setup
+### Lab 1: Basic Network Setup
 - Created a network topology using Cisco Packet Tracer.
 - Added and connected PCs, switches, and routers.
 - Configured basic device settings using the Cisco IOS CLI.
 - Assigned device names for easier identification.
 - Verified physical and logical connections between network devices.
 
-### Lab 2 — VLAN Configuration
+### Lab 2: VLAN Configuration
 - Created VLAN 10 and VLAN 20 on the switch.
 - Assigned switch access ports to the appropriate VLANs.
 - Configured:
@@ -63,25 +63,25 @@ Verified network connectivity using Cisco IOS CLI commands and ping tests. Check
   - Fa0/3 → VLAN 10
 - Used `show vlan brief` to verify VLAN assignments.
 
-### Lab 3 — Trunk Configuration
+### Lab 3: Trunk Configuration
 - Configured trunk links between network devices.
 - Verified trunk status using Cisco IOS CLI commands.
 - Checked VLANs allowed on trunk links.
 - Troubleshot trunk configuration issues affecting VLAN connectivity.
 
-### Lab 4 — IP Addressing
+### Lab 4: IP Addressing
 - Assigned IP addresses and subnet masks to network devices and end devices.
 - Configured default gateways for end devices.
 - Verified IP addressing using Cisco IOS CLI commands.
 - Tested connectivity between devices using `ping`.
 
-### Lab 5 — DHCP Configuration
+### Lab 5: DHCP Configuration
 - Configured DHCP on the network to automatically assign IP addresses to end devices.
 - Configured DHCP network settings, including the default gateway.
 - Verified that end devices successfully received IP addresses.
 - Troubleshot devices that were not receiving IP addresses from DHCP.
 
-### Lab 6 — Network Connectivity Testing
+### Lab 6: Network Connectivity Testing
 - Tested connectivity between network devices using `ping`.
 - Used Cisco IOS verification commands to check device and interface configurations.
 - Identified connectivity issues involving VLAN assignments, trunk links, IP addressing, and default gateways.
