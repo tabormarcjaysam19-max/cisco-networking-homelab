@@ -89,10 +89,8 @@ Verified network connectivity using Cisco IOS CLI commands and ping tests. Check
 
 
 ## Testing & Troubleshooting
-
 Connectivity was tested using ping and Cisco IOS verification commands.
-
- Troubleshooting Example
+### Troubleshooting Example
 
 **Issue:** End device was not receiving an IP address.
 
