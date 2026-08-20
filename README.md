@@ -86,3 +86,20 @@ Verified network connectivity using Cisco IOS CLI commands and ping tests. Check
 - Used Cisco IOS verification commands to check device and interface configurations.
 - Identified connectivity issues involving VLAN assignments, trunk links, IP addressing, and default gateways.
 - Corrected network configuration issues and retested connectivity.
+
+
+## Testing & Troubleshooting
+
+Connectivity was tested using ping and Cisco IOS verification commands.
+
+ Troubleshooting Example
+
+**Issue:** End device was not receiving an IP address.
+
+**Investigation:**
+- Checked the device's IP configuration.
+- Verified the switch port VLAN assignment.
+- Checked the DHCP configuration.
+- Verified connectivity between the switch and connected devices.
+
+**Resolution:** Corrected the network configuration and verified successful IP address assignment and connectivity.
