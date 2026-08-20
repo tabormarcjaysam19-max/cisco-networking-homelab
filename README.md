@@ -6,5 +6,6 @@ This project documents my hands-on networking practice using Cisco Packet Tracer
 
 ## Network Topology
 The following topology represents the network used in this lab.
+
 ![Network Topology](imagesnetwork-topology.png)
 
