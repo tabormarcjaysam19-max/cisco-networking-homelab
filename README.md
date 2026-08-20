@@ -1,13 +1,16 @@
 # cisco-networking-homelab
 Hands-on Cisco networking lab focused on VLAN configuration using Cisco Packet Tracer.
 
+
 ## Project Overview
 This project documents my hands-on networking practice using Cisco Packet Tracer. The lab focuses on configuring and troubleshooting Cisco switches and routers through the Cisco IOS CLI while building a small multi-VLAN network.
+
 
 ## Network Topology
 The following topology represents the network used in this lab.
 
 ![Network Topology](imagesnetwork-topology.png)
+
 
 ## Technologies & Tools
 - Cisco Packet Tracer
@@ -18,6 +21,7 @@ The following topology represents the network used in this lab.
 - IP Addressing
 - DHCP
 - Network Troubleshooting
+
 
 - ## Network Configuration
 ### 1. VLAN Configuration
@@ -40,6 +44,7 @@ Configured DHCP to automatically assign IP addresses and other network informati
 
 ### 6. Connectivity Testing
 Verified network connectivity using Cisco IOS CLI commands and ping tests. Checked VLAN assignments, trunk status, IP addressing, and device connectivity.
+
 
 ## Lab Tasks
 ### Lab 1 — Basic Network Setup
